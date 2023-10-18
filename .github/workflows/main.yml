@@ -20,4 +20,4 @@ jobs:
       run: pip install pyflakes
 
     - name: Run pyflakes
-      run: pyflakes image-classifier.py
+      run: pyflakes image-classifier (1).py
